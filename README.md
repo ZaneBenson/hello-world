@@ -1,3 +1,3 @@
 # hello-world
 
-This branch cotains info thats different from the master file. It will only appear on the README file.
+This branch contains info that's different from the master file. It will only appear on the README file.
